@@ -1,5 +1,5 @@
 <h1 align="center">
-  Portfolio <img width="25px" src="https://raw.githubusercontent.com/hallisonbrancalhao/Portifolio/ff228f4679c0a881902d09cfd4ea4e203eb07417/public/icon.svg"/>
+  Portfolio <img width="25px" src="https://raw.githubusercontent.com/hallisonbrancalhao/Protifolio/685b120ae192a17789bf2517ea8c75b8ec716c62/public/icon.svg"/>
 </h1>
 
  <p align="center">
@@ -10,7 +10,7 @@
 
 <br>
 
-![Resultado final do projeto](https://raw.githubusercontent.com/hallisonbrancalhao/Portifolio/master/public/ogimage.png)
+![Resultado final do projeto](https://github.com/hallisonbrancalhao/Protifolio/blob/master/public/ogimage.png)
 
 <br>
 
